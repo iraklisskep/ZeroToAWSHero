@@ -15,7 +15,7 @@ Note: I am going to usually compare/correlate Azure to AWS products, so if you h
 
 ### Bedankt
 
-I would also like to say thanks to my work-husband and very good friend BJ, who has a great blog on KQL (kqlquery.com), and is moving to another company to follow his Incident Response wet dreams. Good luck my man!
+I would also like to say thanks to my work-husband and very good friend BJ, who has a great blog on KQL (kqlquery.com), and is moving to another company to follow his Incident Response wet dreams. He has helped me a lot to grow as a SOC Analyst and Engineer, taught me a lot and inspired me to start this blog and study more on cloud security. Bedankt and good luck my man!
 
 # AWS Security Hub
 
