@@ -44,7 +44,7 @@ Last in the list is Inspector. Inspector is the vulnerability management of AWS.
 - GuardDuty detects threats and feeds these findings into Security Hub and can also provide data for deeper investigation with Detective.
 - Inspector provides vulnerability assessments that are also reported to Security Hub for a consolidated view.
 
-! [](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2022/11/18/img9-2.png)
+![Aws Security Stack](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2022/11/18/img9-2.png)
 
 # Outro
 
