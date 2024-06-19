@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+From Zero to AWS Hero: A blog on AWS security products
 ---
 
